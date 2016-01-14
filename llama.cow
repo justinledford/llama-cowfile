@@ -1,0 +1,12 @@
+# Llama
+# Justin Ledford - 2016
+
+$the_cow = <<EOC;
+       $thoughts     (\\/)
+        $thoughts   (_o |
+             /  |
+             \\  \\______
+              \\        )o
+               /|----- |
+               \\|     /|
+EOC
